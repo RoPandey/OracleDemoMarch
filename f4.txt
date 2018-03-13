@@ -1,0 +1,2 @@
+Line staged
+Line not staged
